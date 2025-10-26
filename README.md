@@ -1,5 +1,10 @@
 <div align="center">
 
+<!-- Animated GIF Header -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82384593/156415281-9cb4f61c-2cd6-453f-afc3-8c87717c6b28.gif" width="800" style="border-radius:12px; box-shadow: 0 4px 20px rgba(110,68,255,0.3);">
+</p>
+
 <!-- Animated Header -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=6E44FF&center=true&vCenter=true&width=600&lines=Hello+World!+👋;I'm+Ajay+Kumar+Nachimuthu;Full+Stack+Developer;Software+Engineer;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
 
@@ -30,7 +35,22 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ajaykumarnachimuthu&theme=radical&hide_border=true&background=0D1117&fire=6E44FF&currStreakLabel=6E44FF" />
 </a>
 
+</div>
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Divider" width="100%"/>
+
+## 🐍 Contribution Snake Game
+
+<div align="center">
+
+![Snake Game](https://github.com/Ajaykumarnachimuthu/Ajaykumarnachimuthu/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
 <!-- Activity Graph -->
+<div align="center">
+
 [![Ajay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ajaykumarnachimuthu&bg_color=0d1117&color=6e44ff&line=6e44ff&point=ffffff&area=true&hide_border=true&custom_title=Ajay's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
@@ -114,6 +134,15 @@
 
 </div>
 
+<!-- Animated Coding GIF -->
+<div align="center">
+  
+## 💻 Coding in Action
+  
+<img src="https://user-images.githubusercontent.com/82384593/156415281-9cb4f61c-2cd6-453f-afc3-8c87717c6b28.gif" width="700" style="border-radius:12px; box-shadow: 0 4px 20px rgba(110,68,255,0.3); margin: 20px 0;">
+  
+</div>
+
 <!-- Animated Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Divider" width="100%"/>
 
@@ -144,8 +173,10 @@
 
 <div align="center">
 
-<!-- Snake Animation -->
-![Snake animation](https://github.com/Ajaykumarnachimuthu/Ajaykumarnachimuthu/blob/output/github-contribution-grid-snake.svg)
+<!-- Additional Snake Game -->
+### 🎮 Watch the Snake Eat My Contributions!
+
+![Snake animation](https://github.com/Ajaykumarnachimuthu/Ajaykumarnachimuthu/blob/output/github-contribution-grid-snake-game.svg)
 
 <!-- Metrics -->
 ![Metrics](https://metrics.lecoq.io/Ajaykumarnachimuthu?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKolkata)
@@ -159,6 +190,8 @@
 ### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 ⭐ **Feel free to star my repositories if you find them interesting!**
+
+🎯 **The snake above eats my contributions - Watch it grow as I code more!**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn&fontAlign=70" />
 
