@@ -1,10 +1,13 @@
 <div align="center">
 
-<!-- Animated GIF Header -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/82384593/156415281-9cb4f61c-2cd6-453f-afc3-8c87717c6b28.gif" width="800" style="border-radius:12px; box-shadow: 0 4px 20px rgba(110,68,255,0.3);">
-</p>
-
+<!-- Animated Coding GIF -->
+<div align="center">
+  
+## 💻 Code • Create • Innovate
+  
+<img src="https://github.com/Ajaykumarnachimuthu/Ajaykumarnachimuthu/blob/main/assets/coding.gif" width="700" style="border-radius:12px; box-shadow: 0 4px 20px rgba(110,68,255,0.3); margin: 20px 0;">
+  
+</div>
 <!-- Animated Header -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=6E44FF&center=true&vCenter=true&width=600&lines=Hello+World!+👋;I'm+Ajay+Kumar+Nachimuthu;Full+Stack+Developer;Software+Engineer;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
 
