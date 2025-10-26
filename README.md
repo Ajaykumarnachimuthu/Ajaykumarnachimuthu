@@ -1,22 +1,22 @@
 <div align="center">
 
-<!-- Snake Game Container -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ajaykumarnachimuthu/Ajaykumarnachimuthu/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</div>
+<!-- Green Theme Animated GIF Header -->
+<p align="center">
+  <img src="https://github.com/Ajaykumarnachimuthu/Ajaykumarnachimuthu/blob/main/assets/green-tech.gif" width="800" style="border-radius:12px; box-shadow: 0 4px 20px rgba(34,197,94,0.3);">
+</p>
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=6E44FF&center=true&vCenter=true&width=600&lines=Hello+World!+👋;I'm+Ajay+Kumar+Nachimuthu;Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Hello+World!+👋;I'm+Ajay+Kumar;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 
 <!-- Profile Stats -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ajaykumarnachimuthu&label=Profile%20Views&color=6E44FF&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Ajaykumarnachimuthu?label=Followers&style=social&color=6E44FF" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Ajaykumarnachimuthu?label=Total%20Stars&color=6E44FF" alt="Total Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Ajaykumarnachimuthu&label=Profile%20Views&color=22C55E&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Ajaykumarnachimuthu?label=Followers&style=social&color=22C55E" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Ajaykumarnachimuthu?label=Total%20Stars&color=22C55E" alt="Total Stars" />
 </p>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Divider" width="100%"/>
+<!-- Green Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="100%"/>
 
 </div>
 
@@ -26,19 +26,37 @@
 
 <!-- Stats Grid -->
 <a href="https://github.com/Ajaykumarnachimuthu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ajaykumarnachimuthu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6E44FF&icon_color=6E44FF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaykumarnachimuthu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6E44FF&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ajaykumarnachimuthu&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=22C55E&text_color=FFFFFF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaykumarnachimuthu&layout=compact&theme=vue&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=FFFFFF&langs_count=8&exclude_repo=github-readme-stats,Ajaykumarnachimuthu" />
 </a>
 
 <!-- Streak Stats -->
 <a href="https://git.io/streak-stats">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ajaykumarnachimuthu&theme=radical&hide_border=true&background=0D1117&fire=6E44FF&currStreakLabel=6E44FF" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ajaykumarnachimuthu&theme=vue-dark&hide_border=true&background=0D1117&fire=22C55E&currStreakLabel=22C55E" />
 </a>
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Divider" width="100%"/>
+<!-- Green Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="100%"/>
+
+## 🐍 Contribution Snake Game
+
+<div align="center">
+
+![Snake Game](https://github.com/Ajaykumarnachimuthu/Ajaykumarnachimuthu/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+
+[![Ajay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ajaykumarnachimuthu&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true&custom_title=Ajay's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<!-- Green Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="100%"/>
 
 ## 🛠️ Tech Stack & Tools
 
@@ -71,12 +89,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Divider" width="100%"/>
+<!-- Green Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="100%"/>
 
 ## 🎯 Recent Activity
 
@@ -88,12 +105,12 @@
 
 <p align="center">
   <a href="https://github.com/Ajaykumarnachimuthu?tab=repositories">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20Repos-6E44FF?style=for-the-badge&logoColor=white&logo=repo"/>
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20Repos-22C55E?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
 </p>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Divider" width="100%"/>
+<!-- Green Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="100%"/>
 
 ## 🌟 Featured Projects
 
@@ -115,8 +132,17 @@
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Divider" width="100%"/>
+<!-- Green Coding GIF -->
+<div align="center">
+  
+## 💚 Coding in Action
+  
+<img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" width="700" style="border-radius:12px; box-shadow: 0 4px 20px rgba(34,197,94,0.3); margin: 20px 0;">
+  
+</div>
+
+<!-- Green Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="100%"/>
 
 ## 📫 Connect With Me
 
@@ -130,18 +156,31 @@
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Divider" width="100%"/>
+<!-- Green Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="100%"/>
 
 
+</div>
+
+## 📈 Contribution Metrics
 
 <div align="center">
 
-### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+<!-- Green Theme Metrics -->
+![Metrics](https://metrics.lecoq.io/Ajaykumarnachimuthu?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKolkata&config.twemoji=true&config.octicon=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌱 "The best time to plant a tree was 20 years ago. The second best time is now." - Chinese Proverb
 
 ⭐ **Feel free to star my repositories if you find them interesting!**
 
-🎯 **Watch the snake above eat my contributions - it grows as I code more!**
+🎯 **The snake above eats my contributions - Watch it grow as I code more!**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn&fontAlign=70" />
 
