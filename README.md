@@ -42,11 +42,6 @@
 
 ## 🐍 Contributions
 
-<div align="center">
-
-![Snake Game](https://github.com/Ajaykumarnachimuthu/Ajaykumarnachimuthu/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 <!-- Activity Graph -->
 <div align="center">
