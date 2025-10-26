@@ -40,7 +40,7 @@
 <!-- Green Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="100%"/>
 
-## 🐍 Contribution Snake Game
+## 🐍 Contributions
 
 <div align="center">
 
@@ -135,11 +135,7 @@
 <!-- Green Coding GIF -->
 <div align="center">
   
-## 💚 Coding in Action
-  
-<img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" width="700" style="border-radius:12px; box-shadow: 0 4px 20px rgba(34,197,94,0.3); margin: 20px 0;">
-  
-</div>
+
 
 <!-- Green Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="100%"/>
@@ -160,19 +156,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="100%"/>
 
 
-</div>
-
-## 📈 Contribution Metrics
-
-<div align="center">
 
 
-<!-- Green Theme Metrics -->
-![Metrics](https://metrics.lecoq.io/Ajaykumarnachimuthu?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKolkata&config.twemoji=true&config.octicon=true)
-
-</div>
-
----
 
 <div align="center">
 
