@@ -6,7 +6,7 @@
 </p>
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Hello!+👋;I'm+Ajay+Kumar;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Hello!+👋;I'm+Ajay+Kumar;Nice+to+meet+you;" alt="Typing SVG" />
 
 <!-- Profile Stats -->
 <p align="center">
